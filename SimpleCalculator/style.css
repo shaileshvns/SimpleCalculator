@@ -1,0 +1,83 @@
+#container{
+    width: 280px;
+    height: 320px;
+    background-color: rgba(18, 68, 126, 0.932);
+    margin: 0px auto;
+    border: 3px black solid;
+    border-radius: 20px;
+    box-shadow: 10px 10px 2px grey;
+}
+#num1{ 
+    width: 230px;
+    height: 40px;
+    margin-left: 25px;
+    color:  darkgray;
+    border: 3px black solid;
+    border-radius: 8px;
+    padding-left: 55px;
+    font-weight: bold;
+    box-shadow: 5px 5px 2px rgba(34, 60, 85, 0.932);
+}
+#num2{
+    width: 230px;
+    height: 40px;
+    margin-left: 25px;
+    color: darkgray;
+    border: 3px black solid;
+    border-radius: 8px;
+    padding-left: 55px;
+    font-weight: bold;
+    box-shadow: 5px 5px 2px rgba(34, 60, 85, 0.932);
+}
+#plus{
+    width: 45px;
+    height: 40px;
+    background-color: rgb(199, 121, 65);
+    border: 0px black solid;
+    margin-left: 28px;
+    border-radius: 30px;
+    font-size: x-large;
+    box-shadow: 5px 5px 2px rgba(34, 60, 85, 0.932);
+}
+#minus{
+    width: 45px;
+    height: 40px;
+    background-color: rgb(199, 121, 65);
+    border: 0px black solid;
+    margin-left: 10px;
+    border-radius: 30px;
+    font-size: x-large;
+    box-shadow: 5px 5px 2px rgba(34, 60, 85, 0.932);
+}
+#multiply{
+    width: 45px;
+    height: 40px;
+    background-color: rgb(199, 121, 65);
+    border: 0px black solid;
+    margin-left: 10px;
+    border-radius: 30px;
+    font-size: x-large;
+    box-shadow: 5px 5px 2px rgba(34, 60, 85, 0.932);
+}
+#division{
+    width: 45px;
+    height: 40px;
+    background-color: rgb(199, 121, 65);
+    border: 0px black solid;
+    margin-left: 10px;
+    border-radius: 30px;
+    font-size: x-large;
+    box-shadow: 5px 5px 2px rgba(34, 60, 85, 0.932);
+}
+#output{
+    width: 230px;
+    height: 40px;
+    background-color: rgb(250, 219, 135);
+    margin-left: 25px;
+    color: black;
+    border: 3px black solid;
+    border-radius: 8px;
+    padding-left: 85px;
+    font-weight: bold;
+    box-shadow: 5px 5px 2px rgba(34, 60, 85, 0.932);
+}
